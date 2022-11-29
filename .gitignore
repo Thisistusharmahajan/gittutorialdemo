@@ -1,0 +1,4 @@
+/dir/
+static/dir
+* .log 
+change to see git checkout -- .gitignore
